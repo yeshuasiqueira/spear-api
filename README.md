@@ -12,7 +12,7 @@ A standardized framework for capturing authentic human behavior in search and AI
 
 ## 📖 Description
 
-This repository contains the backend service for **Searchat Behavior**. It provides the API server that handles experiment
+This repository contains the backend service for **SPEAR**. It provides the API server that handles experiment
 management, business logic, authentication, and data persistence for
 both search-based and chat-based experimental tasks.
 
@@ -20,8 +20,8 @@ Built with **NestJS**, this API interacts with the database to manage
 configurations and experimental data.
 
 > **⚠️ Note:** If you want to run the full stack (Frontend + Backend +
-> Database) together, please refer to the [Searchat Behavior Parent
-> Repository](https://github.com/lapic-ufjf/searchat-behavior).
+> Database) together, please refer to the [SPEAR Parent
+> Repository](https://github.com/lapic-ufjf/spear).
 > The instructions below are strictly for running the backend
 > **independently** for isolated development or testing.
 
@@ -51,8 +51,8 @@ need:
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/lapic-ufjf/searchat-behavior-api.git
-cd searchat-behavior-api
+git clone https://github.com/lapic-ufjf/spear-api.git
+cd spear-api
 ```
 
 ---
